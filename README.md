@@ -18,5 +18,4 @@ This project performs basic arithmetic operations using user input.
 
 ## 🛠️ Run the Program
 
-# Calculator
-Simple command-line calculator using Python. Handles basic arithmetic operations with user input.
+
